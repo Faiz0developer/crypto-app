@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+.banner {
+  background-image: url("https://i.pinimg.com/originals/4d/15/ce/4d15ce21cdf9563841306ea4f0279b83.jpg");
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  padding-bottom: 100px;
+}
